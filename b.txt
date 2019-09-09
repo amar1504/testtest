@@ -1,3 +1,6 @@
 hello
 bye
 
+title: example
+
+footer: end
